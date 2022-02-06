@@ -1,0 +1,23 @@
+.header-img {
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+    width: min-content;
+}
+
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+
+.bg-gray {
+    background-color: darkgray;
+}
+
+div h3 {
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+}
